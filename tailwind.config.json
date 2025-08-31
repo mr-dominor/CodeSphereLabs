@@ -1,0 +1,10 @@
+{
+    "theme":{
+        "extend":{
+            "colors":{
+                "purple":"#b007f5",
+                "blued":"#3366ff"
+            }
+        }
+    }
+}
