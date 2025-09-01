@@ -56,7 +56,7 @@ const Projects = () =>{
                                     />
                                 </div>
                                 <div className="text-center w-full md:w-1/2 mx-auto py-4 flex items-center px-2">
-                                    <span><h3 className="text-3xl font-mono">{vec.name}</h3></span>
+                                    <span><h3 className="text-3xl font-sans font-medium">{vec.name}</h3></span>
                                 </div>
                                 <div className="p-2 font-sans text-gray-600">
                                     <p>{vec.desc}</p>
